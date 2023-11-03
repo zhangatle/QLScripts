@@ -1,5 +1,5 @@
 /*
-cron "25 2,10 * * *" script-path=jd_bean_home.js
+cron "25 2,15 * * *"
  */
 
 const axios = require('axios');
