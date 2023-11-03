@@ -1,5 +1,5 @@
 /*
-cron "25 2,3 * * *"
+cron "25 2,10 * * *" ql_jindian_sign.js
  */
 
 const axios = require('axios');
