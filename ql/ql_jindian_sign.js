@@ -1,10 +1,7 @@
 /*
 领京豆升级任务
 活动入口：京东APP首页-领京豆任务
-cron "25 2,14 * * *" script-path=jd_bean_home.js, tag=领京豆升级任务
-
-请使用本地IP环境 请使用本地IP环境 请使用本地IP环境
-
+cron "25 2,12 * * *"
  */
 
 const axios = require('axios');
