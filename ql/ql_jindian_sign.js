@@ -1,5 +1,5 @@
 /*
-cron "25 2,10 * * *" script-path=jd_bean_home.js, tag=领京豆升级任务
+cron "25 2,10 * * *" script-path=jd_bean_home.js
  */
 
 const axios = require('axios');
