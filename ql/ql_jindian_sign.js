@@ -2,6 +2,7 @@
 cron "25 2,10 * * *" vv.js
  */
 
+const $ = new Env("金典签到");
 const axios = require('axios');
 const qs = require('qs');
 let data = qs.stringify({
