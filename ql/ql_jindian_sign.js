@@ -1,5 +1,5 @@
 /*
-cron "25 2,15 * * *"
+cron "25 2,3 * * *"
  */
 
 const axios = require('axios');
