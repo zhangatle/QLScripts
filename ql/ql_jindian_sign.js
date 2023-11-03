@@ -30,6 +30,8 @@ let config = {
     data : data
 };
 
+console.log("abc")
+
 axios.request(config)
     .then((response) => {
         console.log(JSON.stringify(response.data));
