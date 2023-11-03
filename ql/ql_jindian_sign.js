@@ -1,6 +1,6 @@
 /*
-new Env("金典签到ss")
-25 2,10 * * *
+new Env("金典签到")
+25 2,5 * * * https://github.com/zhangatle/QLScripts/blob/main/ql/ql_jindian_sign.js
  */
 
 const axios = require('axios');
